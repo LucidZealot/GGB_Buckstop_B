@@ -1,16 +1,14 @@
-﻿body {
-    margin: 0; /* Removes default margin */
-    overflow: hidden; /* Prevents scrolling */
-    background-color: #353535; /* Sets a dark background color */
-    font-family: sans-serif; /* Sets a default font for the page */
-}
 
 #gameContainer {
     position: relative; /* Allows absolute positioning of child elements */
-    width: 100vw; /* Sets the width to 100% of the viewport width */
-    height: 100vh; /* Sets the height to 100% of the viewport height */
+    width: 800px; /* Sets the width to 800 */
+    height: 400px; /* Sets the height to 400 */
     background: #1b1b1b; /* Sets a dark background color */
+    overflow: hidden; /* Hides any overflow with menu */
+    margin: 0 auto; /* Centers the game canvas */
 }
+
+
 
 #gameCanvas {
     position: absolute; /* Allows the canvas to be positioned absolutely within the container */
