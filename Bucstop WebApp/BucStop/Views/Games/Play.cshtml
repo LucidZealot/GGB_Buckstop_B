@@ -1,4 +1,4 @@
-﻿@model BucStop.Models.Game
+@model BucStop.Models.Game
 
 <!-- This is the page every game is embeded into with the js files(in wwwroot folder) -->
 <style>
@@ -23,7 +23,11 @@
                     <div class="game">
 
                         <!-- Embed the game canvas here-->
-                        @if (Model.Title == "Snake")
+                        @if (Model.Title == "Buckart")
+                        {
+                            <div id="game-area" style="position: relative; width: 800px; height: 400px; margin: 0 auto;"></div>
+                        }
+                        else if (Model.Title == "Snake")
                         {
                             <canvas width="400" height="400" id="game"></canvas>
                         }
@@ -37,9 +41,9 @@
                         }
                         else
                         {
-                            <canvas width="400" height="500" id="game" style="border: 1px solid #000000; background-color: gray"></canvas>
+                            <!-- Buckart game will be injected here -->
+                            <div id="game-area"></div>
                         }
-
 
                         <!--Web tools Console Logging of the JS game code URL-->
                         <script>
