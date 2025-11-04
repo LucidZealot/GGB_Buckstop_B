@@ -1,41 +1,5 @@
-[
-  {
-    "Id": 1,
-    "Info": null,
-    "Title": "Snake",
-    "Content": "/js/snake.js",
-    "Author": null,
-    "DateAdded": null,
-    "Description": "Snake Description",
-    "HowTo": null,
-    "Thumbnail": "/images/snake.jpg",
-    "LeaderBoard": null,
-    "PlayCount": 8
-  },
-  {
-    "Id": 2,
-    "Info": null,
-    "Title": "Tetris",
-    "Content": "/js/tetris.js",
-    "Author": null,
-    "DateAdded": null,
-    "Description": "Tetris Description",
-    "HowTo": null,
-    "Thumbnail": "/images/tetris.jpg",
-    "LeaderBoard": null,
-    "PlayCount": 5
-  },
-  {
-    "Id": 3,
-    "Info": null,
-    "Title": "Pong",
-    "Content": "/js/pong.js",
-    "Author": null,
-    "DateAdded": null,
-    "Description": "Pong Description",
-    "HowTo": null,
-    "Thumbnail": "/images/pong.jpg",
-    "LeaderBoard": null,
-    "PlayCount": 5
-  }
-]
+<<<<<<< Updated upstream
+[{"Id":2,"Info":null,"Title":"Tetris","Content":"https://localhost:2626/js/tetris.js","Author":"Fall 2023 Semester","DateAdded":"","Description":"Tetris is a classic arcade puzzle game where the player has to arrange falling blocks, also known as Tetronimos, of different shapes and colors to form complete rows on the bottom of the screen. The game gets faster and harder as the player progresses, and ends when the Tetronimos reach the top of the screen. \n ","HowTo":"Control with arrow keys: Up arrow to spin, down to speed up fall, space to insta-drop.","Thumbnail":"https://localhost:2626/images/tetris.jpg","LeaderBoard":null,"PlayCount":1},{"Id":3,"Info":null,"Title":"Pong","Content":"https://localhost:1941/js/pong.js","Author":"Fall 2023 Semester","DateAdded":"","Description":"Pong is a classic arcade game where the player uses a paddle to hit a ball against a computer\u0027s paddle. Either party scores when the ball makes it past the opponent\u0027s paddle. \n ","HowTo":"Control with arrow keys.","Thumbnail":"https://localhost:1941/images/pong.jpg","LeaderBoard":null,"PlayCount":0},{"Id":1,"Info":null,"Title":"Snake","Content":"https://localhost:1948/js/snake.js","Author":"Fall 2023 Semester","DateAdded":"","Description":"Snake is a classic arcade game that challenges the player to control a snake-like creature that grows longer as it eats apples. The player must avoid hitting the walls or the snake\u0027s own body, which can end the game.\r\n \n ","HowTo":"Control with arrow keys.","Thumbnail":"https://localhost:1948/images/snake.jpg","LeaderBoard":null,"PlayCount":4}]
+=======
+[{"Id":1,"Info":null,"Title":"Snake","Content":"https://localhost:1948/js/snake.js","Author":"Fall 2023 Semester","DateAdded":"","Description":"Snake is a classic arcade game that challenges the player to control a snake-like creature that grows longer as it eats apples. The player must avoid hitting the walls or the snake\u0027s own body, which can end the game.\r\n \n ","HowTo":"Control with arrow keys.","Thumbnail":"https://localhost:1948/images/snake.jpg","LeaderBoard":null,"PlayCount":4},{"Id":2,"Info":null,"Title":"Tetris","Content":"https://localhost:2626/js/tetris.js","Author":"Fall 2023 Semester","DateAdded":"","Description":"Tetris is a classic arcade puzzle game where the player has to arrange falling blocks, also known as Tetronimos, of different shapes and colors to form complete rows on the bottom of the screen. The game gets faster and harder as the player progresses, and ends when the Tetronimos reach the top of the screen. \n ","HowTo":"Control with arrow keys: Up arrow to spin, down to speed up fall, space to insta-drop.","Thumbnail":"https://localhost:2626/images/tetris.jpg","LeaderBoard":null,"PlayCount":1},{"Id":3,"Info":null,"Title":"Pong","Content":"https://localhost:1941/js/pong.js","Author":"Fall 2023 Semester","DateAdded":"","Description":"Pong is a classic arcade game where the player uses a paddle to hit a ball against a computer\u0027s paddle. Either party scores when the ball makes it past the opponent\u0027s paddle. \n ","HowTo":"Control with arrow keys.","Thumbnail":"https://localhost:1941/images/pong.jpg","LeaderBoard":null,"PlayCount":1},{"Id":4,"Info":null,"Title":"BucKart","Content":"https://localhost:1950/js/buckart.js","Author":"Fall 2025 Semester","DateAdded":"10/1/2025","Description":"BucKart is a driving arcade game where the player moves a car, avoiding obstacles and driving to the finish line. \n 10/1/2025","HowTo":"Control with arrow keys.","Thumbnail":"https://localhost:1950/images/buckart.jpg","LeaderBoard":null,"PlayCount":3}]
+>>>>>>> Stashed changes
