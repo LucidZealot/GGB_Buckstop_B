@@ -1,0 +1,30 @@
+name: .NET Build Check
+
+on:
+  push:
+    branches:
+      - main
+      - GGB_Sprint_*
+  pull_request:
+    branches:
+      - main
+      - GGB_Sprint_*
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '6.0.x'   # ✅ updated for your project
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build Solution
+      run: dotnet build --no-restore --configuration Release
