@@ -1,0 +1,19 @@
+Local Solution Deployment
+Prerequisites:
+Docker Desktop
+.NET 6 SDK *might be only necessary for development did not test
+Git
+
+1. Clone the repository (done through Git CMD):
+git clone https://github.com/ZealousKyng/GGB_Buckstop.git
+cd GGB_Buckstop
+2. Start all services using Docker Compose (requires Docker Desktop running):
+docker-compose up
+3. Access the application:
+* Webapp: http://localhost:8080/
+* API Gateway: http://localhost:8081/
+* Snake: http://localhost:8082/
+* Pong: http://localhost:8083/
+* Tetris: http://localhost:8084/
+Only the Webapp seems to load properly while others 404 when trying to access directly but games are accessible through Webapp just fine.
+Following these steps should set up a local instance with containers.
