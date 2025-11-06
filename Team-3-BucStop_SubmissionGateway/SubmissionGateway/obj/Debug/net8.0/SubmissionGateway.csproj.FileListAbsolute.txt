@@ -128,3 +128,47 @@ D:\GGB_Buckstop-GGB_Sprint_5\Team-3-BucStop_SubmissionGateway\SubmissionGateway\
 D:\GGB_Buckstop-GGB_Sprint_5\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\Submissi.C2DC859F.Up2Date
 D:\GGB_Buckstop-GGB_Sprint_5\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.genruntimeconfig.cache
 D:\GGB_Buckstop-GGB_Sprint_5\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\ref\SubmissionGateway.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\SubmissionGateway.staticwebassets.endpoints.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\SubmissionGateway.exe
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\SubmissionGateway.deps.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\SubmissionGateway.runtimeconfig.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\SubmissionGateway.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\SubmissionGateway.pdb
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.csproj.AssemblyReference.cache
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.AssemblyInfoInputs.cache
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.AssemblyInfo.cs
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.csproj.CoreCompileInputs.cache
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.sourcelink.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\scopedcss\bundle\SubmissionGateway.styles.css
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\Submissi.C2DC859F.Up2Date
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\refint\SubmissionGateway.dll
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.pdb
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\SubmissionGateway.genruntimeconfig.cache
+C:\Users\Jericho McGowan\Documents\GitHub\GGB_Buckstop\Team-3-BucStop_SubmissionGateway\SubmissionGateway\obj\Debug\net8.0\ref\SubmissionGateway.dll
