@@ -342,8 +342,6 @@ Invoke-RestMethod -Uri "http://localhost:8085/api/submissions/$id" -Method Get |
 # Update by captured ID
 $update = @{ score = 2000 } | ConvertTo-Json; Invoke-RestMethod -Uri "http://localhost:8085/api/submissions/$id" -Method Put -Body $update -ContentType "application/json" | ConvertTo-Json
 ```
-## Running the Service (Docker)
-
 
 ## Integration (with API Gateway)
 - Proxy requests by calling `/api/submissions` (POST/PUT/GET/query).
