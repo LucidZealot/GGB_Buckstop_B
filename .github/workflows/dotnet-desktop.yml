@@ -3,12 +3,10 @@ name: .NET Build Check
 on:
   push:
     branches:
-      - main
-      - GGB_Sprint_*
+      - GGB_Sprint_6_Nic
   pull_request:
     branches:
-      - main
-      - GGB_Sprint_*
+      - GGB_Sprint_6_Nic
 
 jobs:
   build:
