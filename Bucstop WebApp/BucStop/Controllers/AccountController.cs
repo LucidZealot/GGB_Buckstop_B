@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
 using System.Text.RegularExpressions;
-
+//Test of sc
 namespace BucStop.Controllers
 {
     public class AccountController : Controller
@@ -82,6 +82,7 @@ namespace BucStop.Controllers
         public async Task<IActionResult> Logout()
         {
             _logger.LogInformation("{Category}: {User} logged out.", "UserActivity", User.Identity?.Name ?? "Anonymous");
+
 
             _logger.LogInformation("User logged out.");
             await HttpContext.SignOutAsync("CustomAuthenticationScheme");
