@@ -29,5 +29,10 @@ jobs:
       run: |
         echo "export default [{ files: ['**/*.js'], languageOptions: { ecmaVersion: 2021, sourceType: 'module' }, rules: {} }];" > eslint.config.js
 
-    - name: Lint buckart.js
-      run: npx eslint "Team-3-BucStop_BucKart/BucKart/wwwroot/js/buckart.js"
+    - name: Lint multiple JS paths
+      run: |
+        npx eslint \
+          "Team-3-BucStop_BucKart/BucKart/wwwroot/js/buckart.js" \
+          "Team-3-BucStop_Pong/Pong/wwwroot/js/pong.js" \
+          "Team-3-BucStop_Snake/Snake/wwwroot/js/snake.js" \
+          "Team-3-BucStop_Tetris/Tetris/wwwroot/js/tetris.js"
