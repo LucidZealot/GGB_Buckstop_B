@@ -19,7 +19,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '6.0.x'   # ✅ updated for your project
+        dotnet-version: '6.0.x'   # ✅ updated for your project 
 
     - name: Restore dependencies
       run: dotnet restore BucStop.sln
