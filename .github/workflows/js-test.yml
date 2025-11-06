@@ -25,5 +25,9 @@ jobs:
     - name: Install ESLint
       run: npm install eslint
 
+    - name: Create default ESLint config
+      run: |
+        echo "export default [{ files: ['**/*.js'], languageOptions: { ecmaVersion: 2021, sourceType: 'module' }, rules: {} }];" > eslint.config.js
+
     - name: Lint buckart.js
       run: npx eslint "Team-3-BucStop_BucKart/BucKart/wwwroot/js/buckart.js"
