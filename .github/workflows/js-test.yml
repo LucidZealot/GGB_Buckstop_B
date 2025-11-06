@@ -3,10 +3,10 @@ name: JavaScript Syntax Check
 on:
   push:
     branches:
-      - GGB_Sprint_6_Nic
+      - main
   pull_request:
     branches:
-      - GGB_Sprint_6_Nic
+      - main
   workflow_dispatch:
 
 jobs:
