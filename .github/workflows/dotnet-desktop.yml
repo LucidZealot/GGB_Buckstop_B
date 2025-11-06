@@ -24,7 +24,7 @@ jobs:
         dotnet-version: '6.0.x'   # ✅ updated for your project
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore BucStop.sln
 
     - name: Build Solution
-      run: dotnet build --no-restore --configuration Release
+      run: dotnet build BucStop.sln --no-restore --configuration Release
