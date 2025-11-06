@@ -30,5 +30,5 @@ jobs:
           echo "No package.json found — skipping npm install."
         fi
 
-    - name: Run JavaScript file
-      run: node path/to/yourFile.js
+    - name: Run buckart.js
+      run: node "Team-3-BucStop_BucKart/BucKart/wwwroot/js/buckart.js"
