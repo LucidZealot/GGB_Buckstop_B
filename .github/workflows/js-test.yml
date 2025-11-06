@@ -1,0 +1,34 @@
+name: JavaScript File Test
+
+on:
+  push:
+    branches:
+      - GGB_Sprint_6_Nic         # 👈 only runs in your js-test branch
+  pull_request:
+    branches:
+      - GGB_Sprint_6_Nic
+  workflow_dispatch:     # 👈 lets you run manually from the Actions tab
+
+jobs:
+  run-js:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20.x'   # or whatever version you’re using
+
+    - name: Install dependencies (if package.json exists)
+      run: |
+        if [ -f package.json ]; then
+          npm ci || npm install
+        else
+          echo "No package.json found — skipping npm install."
+        fi
+
+    - name: Run JavaScript file
+      run: node path/to/yourFile.js
