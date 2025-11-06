@@ -25,6 +25,8 @@ jobs:
 
     - name: Restore dependencies
       run: dotnet restore BucStop.sln
+      working-directory: Bucstop WebApp
 
     - name: Build Solution
       run: dotnet build BucStop.sln --no-restore --configuration Release
+      working-directory: Bucstop WebApp
