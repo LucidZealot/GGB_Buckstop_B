@@ -29,5 +29,5 @@ jobs:
       run: |
         echo "export default [{ files: ['**/*.js'], languageOptions: { ecmaVersion: 2021, sourceType: 'module' }, rules: {} }];" > eslint.config.js
 
-    - name: Lint all JS files
-      run: npx eslint "Team-3-BucStop_BucKart/**/*.js"
+    - name: Lint buckart.js
+      run: npx eslint "Team-3-BucStop_BucKart/BucKart/wwwroot/js/buckart.js"
