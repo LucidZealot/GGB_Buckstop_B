@@ -58,18 +58,29 @@ const containerHTML = `
     <button id="returnToPauseButton">Return to Pause Menu</button>
   </div>
 `;
-document.body.innerHTML = containerHTML;
 
-// Inject CSS dynamically
-const style = document.createElement('style');
+// Inject game HTML into Play.cshtml's target container
+const targetDiv = document.getElementById('game-area');
+if (targetDiv) {
+    targetDiv.innerHTML = containerHTML;
+} else {
+    console.error("Error: #game-area not found.");
+}
+
+// Inject CSS safely without overwriting site styling
 fetch('/css/style.css')
     .then(res => res.text())
     .then(css => {
-        style.textContent = css;
+        // Only keep the #gameContainer and its children — remove global body styling
+        const cleanedCSS = css.replace(/body\s*\{[^}]*\}/g, '')
+            .replace(/#gameContainer\s*\{[^}]*\}/g, '#gameContainer { position: relative; width: 800px; height: 400px; margin: 0 auto; }');
+        const style = document.createElement('style');
+        style.textContent = cleanedCSS;
         document.head.appendChild(style);
     });
 
-// Begin game logic (existing code continues here � truncated for brevity)
+
+// Begin game logic (existing code continues here — truncated for brevity)
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 

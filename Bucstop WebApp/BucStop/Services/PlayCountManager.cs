@@ -52,7 +52,8 @@ namespace BucStop.Services
             {
                 { "Snake", 1 },
                 { "Tetris", 2 },
-                { "Pong", 3 }
+                { "Pong", 3 },
+                { "BucKart", 4 }
             };
 
             foreach (var kvp in playerCounts)
