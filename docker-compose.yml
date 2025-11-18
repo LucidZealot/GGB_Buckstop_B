@@ -16,6 +16,7 @@ services:
     volumes:
       - snapshots-data:/app/Snapshots
       - logs-data:/app/Logs
+      - game-data:/app/GameData
 
   api-gateway:
     build:
@@ -89,4 +90,6 @@ volumes:
   snapshots-data:
     driver: local
   logs-data:
+    driver: local
+  game-data:
     driver: local
