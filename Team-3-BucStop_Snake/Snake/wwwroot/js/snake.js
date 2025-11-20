@@ -138,17 +138,7 @@ function loop() {
                 if (cell.x === snake.cells[i].x && cell.y === snake.cells[i].y) {
                     isGameOver = true;
 
-                    /* Reset game data. Idea maybe make a function with this 
-                    snake.x = 160;
-                    snake.y = 160;
-                    snake.cells = [];
-                    snake.maxCells = 4;
-                    snake.dx = grid;
-                    snake.dy = 0;
-                    playerScore.textContent = `Current Score: ${0}`;
-                    apple.x = getRandomInt(0, 25) * grid;
-                    apple.y = getRandomInt(0, 25) * grid;
-                    */
+                  
                 }
             }
         });
