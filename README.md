@@ -164,7 +164,7 @@ BucStop-Goofin/
 ├── Team-3-BucStop_Snake/      # Snake game microservice
 ├── Team-3-BucStop_Tetris/     # Tetris game microservice
 ├── Team-3-BucStop_Pong/       # Pong game microservice
-├── Team-3-BucStop_BucKart/       # Pong game microservice
+├── Team-3-BucStop_BucKart/    # BucKart game microservice
 ├── Documentation/             # Project documentation
 └── docker-compose.yml         # Container orchestration
 ```
